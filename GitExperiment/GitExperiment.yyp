@@ -221,6 +221,14 @@
                 "resourcePath": "views\\fc202a85-36fc-4b23-be3e-cb36d8f059fc.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "fe111a15-11d0-499d-a31d-5ffedab83da1",
+            "Value": {
+                "id": "03a078e7-26ce-476d-9a68-2394a8c8cc94",
+                "resourcePath": "objects\\oMarcoPolo\\oMarcoPolo.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
