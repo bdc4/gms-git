@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "d632d060-b478-45e2-b53c-bafae433475a",
+            "Value": {
+                "id": "252ed7b2-7e79-47ad-a6e5-71de2b952b74",
+                "resourcePath": "objects\\oMeow\\oMeow.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d729dbbf-36b6-46bd-abab-e012e233af36",
             "Value": {
                 "id": "242c5d2d-0c89-4413-9083-5eeba62f12fb",
